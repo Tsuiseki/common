@@ -1,0 +1,22 @@
+{
+  "name": "@tsuiseki/common",
+  "version": "0.0.2",
+  "description": "Common Tsuiseki's modules",
+  "main": "dist/bundle.js",
+  "repository": "git@github.com:Tsuiseki/common.git",
+  "author": "Agustin Carrasco <asermax@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "mongoose": "^4.7.6"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-latest": "^6.16.0",
+    "webpack": "beta"
+  }
+}
