@@ -5,7 +5,7 @@ const ShowSchema = mongoose.Schema({
   slug: String,
   airing: Boolean,
   episodes: Number,
-  image: String
+  image: String,
 });
 
 const Show = mongoose.model('Show', ShowSchema);
