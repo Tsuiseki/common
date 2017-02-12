@@ -13,4 +13,4 @@ const ShowSourceSchema = mongoose.Schema({
 
 const ShowSource = mongoose.model('ShowSource', ShowSourceSchema);
 
-export default Source;
+export default ShowSource;
