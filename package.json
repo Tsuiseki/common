@@ -13,10 +13,10 @@
     "mongoose": "^4.7.6"
   },
   "devDependencies": {
-    "babel": "^6.5.2",
-    "babel-core": "^6.21.0",
-    "babel-loader": "^6.2.10",
-    "babel-preset-latest": "^6.16.0",
-    "webpack": "beta"
+    "babel": "^6.x",
+    "babel-core": "^6.x",
+    "babel-loader": "^7.x",
+    "babel-preset-latest": "^6.x",
+    "webpack": "2.x"
   }
 }
