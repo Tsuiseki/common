@@ -1,6 +1,6 @@
 {
   "name": "@tsuiseki/common",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Common Tsuiseki's modules",
   "main": "dist/bundle.js",
   "repository": "git@github.com:Tsuiseki/common.git",
@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "peerDependencies": {
-    "mongoose": "^4.7.6"
+    "mongoose": "^4.x"
   },
   "devDependencies": {
     "babel": "^6.x",
